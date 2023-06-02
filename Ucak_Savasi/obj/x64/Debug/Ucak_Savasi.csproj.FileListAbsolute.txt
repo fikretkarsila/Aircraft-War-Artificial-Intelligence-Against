@@ -1,0 +1,6 @@
+C:\Users\zulka\Desktop\Ucak_Savasi_v3.7\Ucak_Savasi\obj\x64\Debug\Ucak_Savasi.csproj.AssemblyReference.cache
+C:\Users\zulka\Desktop\Ucak_Savasi_v3.7\Ucak_Savasi\obj\x64\Debug\Ucak_Savasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\zulka\Desktop\Ucak_Savasi_v3.7\Ucak_Savasi\obj\x64\Debug\Ucak_Savasi.Form1.resources
+C:\Users\zulka\Desktop\Ucak_Savasi_v3.7\Ucak_Savasi\obj\x64\Debug\Ucak_Savasi.Properties.Resources.resources
+C:\Users\zulka\Desktop\Ucak_Savasi_v3.7\Ucak_Savasi\obj\x64\Debug\Ucak_Savasi.csproj.GenerateResource.cache
+C:\Users\zulka\Desktop\Ucak_Savasi_v3.7\Ucak_Savasi\obj\x64\Debug\Ucak_Savasi.csproj.CoreCompileInputs.cache
